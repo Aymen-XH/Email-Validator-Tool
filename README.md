@@ -32,7 +32,7 @@ A 🔒 powerful and user-friendly email validation tool that can process big lis
 1. ▶️ Run `Email-Validator.exe`  
 2. 📄 Enter the path to your email list file when prompted  
 3. 👀 Watch real-time validation results  
-4. ✅ Find valid emails in the generated `valid.txt`
+4. ✅ Find valid emails in `valid.txt`
 
 ---
 
